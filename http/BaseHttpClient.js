@@ -6,9 +6,6 @@ const { VUE_APP_API_BASE_URL } = process.env;
 
 export default class BaseHttpClient {
   constructor() {
-    console.log("vue-app-env",VUE_APP_API_BASE_URL);
-    // TODO: check
-    // this.queryParams = { row: '100' };
     this.axiosHttpClient = axios.create({
       baseURL: VUE_APP_API_BASE_URL,
       headers: {
