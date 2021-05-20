@@ -45,7 +45,7 @@ NPM
 - visit the package.json
 
 ## visit the site previously
-
+preferably deploy local, since it is deployed in github pages and I block the URL of the REST API and the fonts-harry-potter, as "TODO" you can search another server. https://randresuk.github.io/test-hogwarts/
 
 ## Install and deploy
 
